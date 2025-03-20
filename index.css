@@ -5,7 +5,7 @@ table,th,td,tr{
 }
 
 table{
-    width: auto;
+    width:100%;
     border-style: ridge;
 }
 body{
